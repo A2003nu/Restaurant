@@ -1,8 +1,16 @@
+import { About } from "./sections/About";
+import { Hero } from "./sections/Hero";
 
 
 export default function Home() {
   return (
-   
-       <div></div>
+    <>
+      <Hero />
+      <main id="main">
+<About />
+      </main>
+    </>
+ 
+
   );
 }

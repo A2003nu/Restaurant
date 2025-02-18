@@ -9,6 +9,7 @@ import { Playfair, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { TopBar } from './components/TopBar';
 import { Header } from './components/Header';
+import { BackToTopBtn } from './components/BackToTopBtn';
 
 const playfair = Playfair_Display({
   variable: "--font-playfair-display",
@@ -35,6 +36,7 @@ export default function RootLayout({
         <TopBar />
         <Header />
         {children}
+        <BackToTopBtn />
       </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
     </html>
