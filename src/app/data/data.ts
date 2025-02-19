@@ -1,21 +1,18 @@
 export const whyUs = [
   {
     id: 1,
-    title: 'Lorem Ipsum',
-    content: `Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et
-        consectetur ducimus vero placeat`,
+    title: '👨‍🍳 Exquisite Cuisine',
+    content: `Our expert chefs craft mouthwatering dishes using the freshest ingredients, ensuring a burst of flavor in every bite.`,
   },
   {
     id: 2,
-    title: 'Repellat Nihil',
-    content: `Dolorem est fugiat occaecati voluptate velit esse. Dicta
-    veritatis dolor quod et vel dire leno para dest`,
+    title: '🏡 Cozy & Elegant Ambiance',
+    content: `Whether you're here for a casual meal or a special occasion, our inviting atmosphere makes  memorable.`,
   },
   {
     id: 3,
-    title: 'Ad ad velit qui',
-    content: `Molestiae officiis omnis illo asperiores. Aut doloribus vitae
-    sunt debitis quo vel nam quis`,
+    title: '🥂 Perfect for Every Occasion ',
+    content: ` Be it a family dinner, a date night, or a gathering with friends, our restaurant is the perfect spot for memories.`,
   },
 ];
 
