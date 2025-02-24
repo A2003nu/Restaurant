@@ -24,9 +24,8 @@ export const menu = [
     preview: '/assets/images/menu/lobster-bisque.jpg',
     ingredients: 'Lorem, deren, trataro, filede, nerada',
     category: 'starters',
-    description: `Phasellus malesuada sapien erat, non lacinia tortor tincidunt at. Donec auctor nisi congue placerat blandit. In hac habitasse platea dictumst. Nunc dictum pellentesque maximus. Vivamus sit amet augue fringilla, aliquam arcu eu, iaculis massa. Duis condimentum nulla et erat dictum, eu consectetur lorem consequat. In hac habitasse platea dictumst. Vivamus scelerisque luctus est vel facilisis. Etiam accumsan mollis orci, viverra gravida ex. Ut aliquet sem et condimentum ultrices.
-    Ut ut felis aliquet, fringilla magna eu, ullamcorper lorem. Phasellus porta sollicitudin massa, at porttitor tortor auctor at. Mauris venenatis efficitur fringilla. Fusce at ligula nisi. Suspendisse commodo commodo lectus, non tempus sem luctus vel. Donec at lorem ipsum. Aliquam a venenatis augue. Aenean eget nisi enim. Integer convallis euismod luctus.
-    Morbi rhoncus dui elit, vitae facilisis quam pulvinar eu. In maximus, augue vitae ultricies scelerisque, nisl odio convallis felis, a elementum neque nisl in nisi. Aliquam a lorem nec mi interdum.`,
+    description: `Indulge in the exquisite taste of our premium lobster, a true delicacy from the sea. Succulent, tender, and bursting with rich, buttery flavor, our lobster is sourced fresh to ensure the highest quality. Whether grilled to perfection, served with a side of garlic butter, or incorporated into a luxurious seafood dish, every bite offers a melt-in-your-mouth experience. Perfect for special occasions or a lavish dining treat, our lobster promises an unforgettable culinary journey. Pair it with a fine wine and let your taste buds savor the elegance of the ocean.
+    Our lobster is expertly prepared to highlight its naturally sweet and delicate flavor, making it a standout dish for seafood lovers. Whether you prefer it steamed, grilled, or in a creamy lobster bisque, each preparation showcases its tender texture and ocean-fresh taste. Served with complementary sides and flavorful sauces, our lobster dishes offer a perfect balance of indulgence and refinement. Experience the ultimate seafood delight, crafted with passion and served with elegance.`,
   },
   {
     id: 2,
